@@ -1,0 +1,11 @@
+.App {
+  text-align: center;
+}
+.App-header {
+    color: #ffffff;
+    text-align: center;
+}
+.App-layout-content {
+    background-color: #ffffff;
+    padding: 24px;
+}
